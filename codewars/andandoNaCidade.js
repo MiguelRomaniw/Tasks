@@ -37,4 +37,4 @@ function isValidWalk(walk) {
     }
 
 }
-console.log(isValidWalk(['norte','sul','norte','sul','norte','sul','norte','sul',"norte", "norte"]))
+console.log(isValidWalk(['norte','sul','norte','sul','norte','sul','norte','sul',"norte", "SUL"]))

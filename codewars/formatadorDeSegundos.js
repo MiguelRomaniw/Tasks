@@ -117,4 +117,4 @@ function formatDuration (seconds) {
   }
 
 
-  console.log(formatDuration(86400))
+  console.log(formatDuration(100000))
